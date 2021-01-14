@@ -1,24 +1,5 @@
-# inbox-ui
+# Inbox-UI
 
-## Project setup
-```
-yarn install
-```
+This project is a translation of the video: [Building Intercom's Inbox UI with Tailwind CSS](https://youtu.be/cg1qbkG0KRI) into a Vue project.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Nothing less, nothing more.
